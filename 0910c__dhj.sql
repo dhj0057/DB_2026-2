@@ -104,3 +104,4 @@ select 고객아이디, 고객이름
     where 고객아이디 like 'pe__'; 
     
     
+    
